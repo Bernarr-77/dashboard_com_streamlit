@@ -1,0 +1,101 @@
+Data,Produto,Categoria,Quantidade,Preço_Unitário,Forma_Pagamento
+2025-09-09,Croissant,Pães,41,4.5,Pix
+2025-10-14,Bolo de Cenoura,Bolos,10,6.0,Pix
+2025-09-11,Pão de Queijo,Pães,50,1.2,Dinheiro
+2025-10-13,Refrigerante Lata,Bebidas,3,5.5,Cartão
+2025-10-19,Suco Natural,Bebidas,12,6.5,Cartão
+2025-09-05,Café com Leite,Bebidas,16,5.0,Dinheiro
+2025-09-08,Café Expresso,Bebidas,30,4.0,Cartão
+2025-09-13,Suco Natural,Bebidas,18,6.5,Pix
+2025-10-05,Suco Natural,Bebidas,15,6.5,Dinheiro
+2025-09-30,Pão Francês,Pães,25,0.8,Dinheiro
+2025-09-23,Torta de Limão,Bolos,2,8.5,Cartão
+2025-09-13,Café com Leite,Bebidas,16,5.0,Pix
+2025-09-06,Pão Francês,Pães,45,0.8,Dinheiro
+2025-09-07,Croissant,Pães,50,4.5,Cartão
+2025-09-08,Refrigerante Lata,Bebidas,24,5.5,Pix
+2025-10-06,Café com Leite,Bebidas,43,5.0,Cartão
+2025-09-24,Croissant,Pães,7,4.5,Pix
+2025-10-03,Suco Natural,Bebidas,22,6.5,Pix
+2025-10-20,Bolo de Cenoura,Bolos,33,6.0,Pix
+2025-09-28,Bolo de Cenoura,Bolos,49,6.0,Pix
+2025-10-03,Pão Francês,Pães,8,0.8,Pix
+2025-10-14,Café com Leite,Bebidas,33,5.0,Cartão
+2025-10-11,Pão de Queijo,Pães,12,1.2,Dinheiro
+2025-09-01,Bolo de Cenoura,Bolos,17,6.0,Dinheiro
+2025-10-14,Bolo de Chocolate,Bolos,8,7.0,Dinheiro
+2025-09-15,Café Expresso,Bebidas,42,4.0,Dinheiro
+2025-09-20,Bolo de Chocolate,Bolos,2,7.0,Pix
+2025-09-14,Torta de Limão,Bolos,11,8.5,Pix
+2025-09-14,Pão de Queijo,Pães,18,1.2,Pix
+2025-10-18,Croissant,Pães,30,4.5,Cartão
+2025-09-26,Suco Natural,Bebidas,9,6.5,Pix
+2025-10-19,Café com Leite,Bebidas,34,5.0,Dinheiro
+2025-10-13,Suco Natural,Bebidas,47,6.5,Cartão
+2025-10-20,Bolo de Cenoura,Bolos,37,6.0,Pix
+2025-09-04,Pão Francês,Pães,25,0.8,Pix
+2025-09-09,Pão Francês,Pães,23,0.8,Cartão
+2025-09-26,Bolo de Chocolate,Bolos,45,7.0,Cartão
+2025-09-02,Pão Francês,Pães,14,0.8,Pix
+2025-10-14,Café Expresso,Bebidas,12,4.0,Pix
+2025-09-08,Pão Francês,Pães,45,0.8,Dinheiro
+2025-09-16,Pão Francês,Pães,29,0.8,Cartão
+2025-09-09,Torta de Limão,Bolos,6,8.5,Dinheiro
+2025-10-03,Café Expresso,Bebidas,38,4.0,Dinheiro
+2025-10-02,Bolo de Chocolate,Bolos,28,7.0,Pix
+2025-09-22,Suco Natural,Bebidas,43,6.5,Cartão
+2025-09-11,Croissant,Pães,26,4.5,Dinheiro
+2025-09-11,Torta de Limão,Bolos,35,8.5,Dinheiro
+2025-10-07,Bolo de Cenoura,Bolos,1,6.0,Pix
+2025-09-28,Refrigerante Lata,Bebidas,39,5.5,Cartão
+2025-09-23,Pão de Queijo,Pães,3,1.2,Pix
+2025-09-12,Café Expresso,Bebidas,47,4.0,Pix
+2025-09-08,Suco Natural,Bebidas,5,6.5,Cartão
+2025-09-29,Bolo de Chocolate,Bolos,34,7.0,Cartão
+2025-09-10,Refrigerante Lata,Bebidas,25,5.5,Pix
+2025-10-14,Café com Leite,Bebidas,44,5.0,Pix
+2025-09-24,Pão Francês,Pães,45,0.8,Cartão
+2025-09-27,Pão de Queijo,Pães,22,1.2,Cartão
+2025-09-29,Pão Francês,Pães,48,0.8,Dinheiro
+2025-09-01,Café Expresso,Bebidas,5,4.0,Pix
+2025-09-19,Refrigerante Lata,Bebidas,16,5.5,Cartão
+2025-09-13,Torta de Limão,Bolos,8,8.5,Dinheiro
+2025-10-07,Croissant,Pães,3,4.5,Dinheiro
+2025-10-07,Suco Natural,Bebidas,22,6.5,Cartão
+2025-09-17,Bolo de Chocolate,Bolos,11,7.0,Cartão
+2025-09-27,Pão Francês,Pães,6,0.8,Cartão
+2025-10-08,Café com Leite,Bebidas,3,5.0,Cartão
+2025-10-21,Café Expresso,Bebidas,40,4.0,Dinheiro
+2025-10-03,Bolo de Cenoura,Bolos,43,6.0,Dinheiro
+2025-10-07,Bolo de Chocolate,Bolos,18,7.0,Pix
+2025-09-10,Pão Francês,Pães,42,0.8,Cartão
+2025-09-15,Croissant,Pães,10,4.5,Cartão
+2025-09-03,Croissant,Pães,41,4.5,Cartão
+2025-10-14,Pão de Queijo,Pães,11,1.2,Cartão
+2025-09-02,Suco Natural,Bebidas,28,6.5,Pix
+2025-09-13,Croissant,Pães,23,4.5,Cartão
+2025-10-06,Pão Francês,Pães,2,0.8,Pix
+2025-10-06,Bolo de Chocolate,Bolos,5,7.0,Dinheiro
+2025-09-22,Café com Leite,Bebidas,39,5.0,Pix
+2025-09-10,Pão Francês,Pães,33,0.8,Cartão
+2025-09-05,Croissant,Pães,39,4.5,Dinheiro
+2025-10-19,Bolo de Chocolate,Bolos,47,7.0,Dinheiro
+2025-09-29,Bolo de Chocolate,Bolos,43,7.0,Pix
+2025-10-20,Café Expresso,Bebidas,18,4.0,Pix
+2025-09-18,Suco Natural,Bebidas,48,6.5,Cartão
+2025-10-12,Café com Leite,Bebidas,35,5.0,Dinheiro
+2025-09-12,Croissant,Pães,10,4.5,Cartão
+2025-10-15,Suco Natural,Bebidas,11,6.5,Cartão
+2025-10-21,Café Expresso,Bebidas,10,4.0,Cartão
+2025-09-20,Torta de Limão,Bolos,2,8.5,Dinheiro
+2025-09-12,Café Expresso,Bebidas,27,4.0,Cartão
+2025-10-05,Bolo de Chocolate,Bolos,23,7.0,Dinheiro
+2025-10-12,Bolo de Chocolate,Bolos,42,7.0,Pix
+2025-09-20,Suco Natural,Bebidas,39,6.5,Dinheiro
+2025-09-27,Café Expresso,Bebidas,31,4.0,Pix
+2025-09-08,Torta de Limão,Bolos,35,8.5,Pix
+2025-09-03,Bolo de Chocolate,Bolos,48,7.0,Pix
+2025-10-16,Bolo de Chocolate,Bolos,50,7.0,Dinheiro
+2025-10-17,Pão Francês,Pães,23,0.8,Pix
+2025-10-07,Café com Leite,Bebidas,8,5.0,Cartão
+2025-09-22,Bolo de Cenoura,Bolos,5,6.0,Dinheiro
